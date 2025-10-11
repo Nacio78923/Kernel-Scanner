@@ -29,7 +29,7 @@ Detects currently loaded kernel modules in active processes.
 ✅ **Heuristic Risk Assessment**  
 Flags drivers as **Low**, **Medium**, or **High Risk** based on:
 - Missing/invalid signature  
-- Suspicious file paths (Temp / AppData)  
+- Suspicious file paths   
 - Missing company or description info  
 
 ✅ **Beautiful Console Interface**  
