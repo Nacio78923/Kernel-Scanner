@@ -57,6 +57,7 @@ powershell -ExecutionPolicy Bypass -File .\Nacio Kernel Scanner.ps1
 
 # With optional parameters
 .\KernelModulesScanner.ps1 -OutputPath "C:\Reports\KernelScan.csv" -DeepScan
+
 📊 Output Example
 
 At the end, the tool prints a summary:
@@ -77,25 +78,13 @@ At the end, the tool prints a summary:
 
 🧠 Technical Notes
 
-Pure PowerShell implementation — no external dependencies.
-
-Uses Get-AuthenticodeSignature for signature verification.
-
-Outputs structured data as PowerShell objects and CSV.
-
-Safe, read-only inspection — does not modify the system.
-
-💡 Recommended Use
-
-Ideal for:
-
-Malware analysts and DFIR specialists
-
-IT administrators auditing driver integrity
-
-Windows security researchers
+* Pure PowerShell implementation — no external dependencies.
+* Uses Get-AuthenticodeSignature for signature verification.
+* Outputs structured data as PowerShell objects and CSV.
+* Safe, read-only inspection — does not modify the system.
 
 Incident response investigations
+
 📦 Example Output File
 KernelScan_20251011_142143.csv
 🧾 License
