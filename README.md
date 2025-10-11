@@ -47,8 +47,8 @@ Exports results automatically to a timestamped `.csv` file.
 This script requires elevated privileges to access protected system areas.
 
 #### Simple Launcher (Direct Download)
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-Invoke-Expression (Invoke-RestMethod 'https://raw.githubusercontent.com/Nacio78923/Kernel-Scanner/refs/heads/main/Nacio%20Kernel%20Scanner.ps1')
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; Invoke-Expression (Invoke-RestMethod 'https://raw.githubusercontent.com/Nacio78923/Kernel-Scanner/refs/heads/main/Nacio%20Kernel%20Scanner.ps1')
+
 
 Manual Execution
 # After downloading the script
