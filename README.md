@@ -87,9 +87,8 @@ Incident response investigations
 
 📦 Example Output File
 KernelScan_20251011_142143.csv
-🧾 License
 
-Educational and diagnostic use only.
-Do not use for unauthorized system analysis or malicious activity.
+🧾 License
+Made for PC Checkers.
 
 © 2025 NACIO — All rights reserved.
