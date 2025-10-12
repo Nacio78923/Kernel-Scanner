@@ -93,3 +93,5 @@ KernelScan_20251011_142143.csv
 Made for PC Checkers.
 
 © 2025 NACIO — All rights reserved.
+
+![Image Alt](https://github.com/Nacio78923/Kernel-Scanner/blob/main/togif.gif?raw=true)
