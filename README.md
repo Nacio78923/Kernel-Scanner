@@ -92,6 +92,8 @@ KernelScan_20251011_142143.csv
 🧾 License
 Made for PC Checkers.
 
+![Image Alt](https://github.com/Nacio78923/Kernel-Scanner/blob/main/togif.gif?raw=true)
+
 © 2025 NACIO — All rights reserved.
 
-![Image Alt](https://github.com/Nacio78923/Kernel-Scanner/blob/main/togif.gif?raw=true)
+
